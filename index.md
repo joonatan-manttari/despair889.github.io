@@ -1,5 +1,10 @@
-###This is totally a gif:
-<img src="{{ site.baseurl }}/assets/Animation/run.gif">
+### This is totally a table with gifs:
+Mask Losses I3D | Results | Mask Losses CLSTM
+- | - | -
+0.000 | <img src="{{ site.baseurl }}/assets/Animation/run.gif"> | 0.000
+0.000 | <img src="{{ site.baseurl }}/assets/Animation/run.gif"> | 0.000
+
+
 
 ## Welcome to GitHub Pages
 
