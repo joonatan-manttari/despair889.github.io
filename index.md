@@ -1,3 +1,6 @@
+###This is totally a gif:
+<img src="{{ site.baseurl }}/assets/Animation/run.gif">
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/despair889/despair889.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
