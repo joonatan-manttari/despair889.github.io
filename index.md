@@ -1,9 +1,9 @@
 ### This is totally a table with gifs:
 
-Mask Losses I3D | Results | Mask Losses CLSTM
+Mask Losses I3D | I3D | CLSTM | Mask Losses CLSTM
 ---- | ---- | ----
-0.000 | <img src="{{ site.baseurl }}/gifs/I3DTest.gif"> | 0.000
-0.000 | <img src="{{ site.baseurl }}/gifs/CLSTMTest.gif"> | 0.000
+0.000 0.000 0.000 | <img src="{{ site.baseurl }}/gifs/I3DTest.gif"> | <img src="{{ site.baseurl }}/gifs/CLSTMTest.gif"> | 0.000
+0.000 | <img src="{{ site.baseurl }}/gifs/I3DTest.gif"> | <img src="{{ site.baseurl }}/gifs/CLSTMTest.gif"> | 0.000
 
 
 
