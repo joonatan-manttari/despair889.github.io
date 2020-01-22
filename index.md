@@ -6,8 +6,8 @@ layout: default
 
 Mask Losses I3D | I3D | CLSTM | Mask Losses CLSTM
 ---- | ---- | ----
-0.000<br /> 0.000 <br />0.000 | <img src="{{ site.baseurl }}/gifs/servercomic.png"> | <img src="{{ site.baseurl }}/gifs/CLSTMTest.gif"> | 0.000<br /> 0.000 <br />0.000
-0.000<br /> 0.000 <br />0.000 | <img src="{{ site.baseurl }}/gifs/I3DTest.gif"> | <img src="{{ site.baseurl }}/gifs/CLSTMTest.gif"> | 0.000<br /> 0.000 <br />0.000
+0.000<br /> 0.000 <br />0.000 | ![img](../gifs/I3DTest.gif) | <img src="{{ site.baseurl }}/gifs/CLSTMTest.gif"> | 0.000<br /> 0.000 <br />0.000
+0.000<br /> 0.000 <br />0.000 | ![img](../gifs/I3DTest.gif) | <img src="{{ site.baseurl }}/gifs/CLSTMTest.gif"> | 0.000<br /> 0.000 <br />0.000
 
 
 
